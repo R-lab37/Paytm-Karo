@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item android:title="Mail"
+        android:icon="@drawable/ic_local_mall"
+        android:id="@+id/bav_mall"/>
+    <item android:title="Bank"
+        android:id="@+id/ban_bank"
+        android:icon="@drawable/ic_account_balance"
+        />
+
+</menu>
